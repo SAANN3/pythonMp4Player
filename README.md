@@ -10,4 +10,4 @@ then you need to put ffmpeg and it's dependencies near main.py file
 opencv-python pygame pillow
 ```
 ### PS
-this was my very old project, i did it almost 2 or 3 years ago. Because of that code definetly sucks in many aspects, but despite all it works and actually not  bad
+this was my very old project, i wrote it almost 2 or 3 years ago. Because of that code definetly sucks in many aspects, but despite all it works and actually not  bad
